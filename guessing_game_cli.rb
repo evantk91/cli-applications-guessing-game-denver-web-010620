@@ -12,6 +12,7 @@ def run_guessing_game
     puts "Sorry! The computer guessed #{number}."
     
   else
+    puts "Invalid"
   end
   
 end
